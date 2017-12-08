@@ -1,0 +1,10 @@
+{
+  "name": "montserrat-font",
+  "version": "1.0.0",
+  "homepage": "https://github.com/fischermatte",
+  "authors": [
+    "Fischer Matte<fischermatte@posteo.net>"
+  ],
+  "description": "Bower repository for Montserrat font",
+  "license": "MIT, SIL 1.1"
+}

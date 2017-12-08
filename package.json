@@ -1,0 +1,14 @@
+{
+  "name": "montserrat-font",
+  "version": "1.0.0",
+  "description": "Distribution repository for Montserrat font",
+  "license": "(MIT AND OFL-1.1)",
+  "keywords": [
+    "font"
+  ],
+  "main": "scss/montserrat-font.scss",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fischermatte/montserrat-font.git"
+  }
+}
